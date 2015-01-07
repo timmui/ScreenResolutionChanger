@@ -11,11 +11,15 @@ PowerShell Function - The PowerShell Function
 FindDispNum Tool - A simple tool written in C# that will show all the display information for the computer including the DeviceID needed to run the script and function. 
 
 <h3>FindDispNum Tool Instructions</h3>
-1) Run the .exe from cmd.
-2) Identify the DeviceID of the monitor you want to make changes to.
+<ol>
+<li>Run the .exe from cmd.</li>
+<li>Identify the DeviceID of the monitor you want to make changes to.</li>
+</ol>
 
 <h2>Acknowledgements</h2>
--Many thanks to Andy Schneider for providing the original code for a single monitor (https://gallery.technet.microsoft.com/ScriptCenter/2a631d72-206d-4036-a3f2-2e150f297515/). 
--Thanks to <a href="http://www.pinvoke.net" target="_blank">PInvoke.net</a> for having an amazing resource for PInvoke and Win32.
+<ul>
+<li>Andy Schneider for providing the original code for a single monitor (https://gallery.technet.microsoft.com/ScriptCenter/2a631d72-206d-4036-a3f2-2e150f297515/).</li>
+<li><a href="http://www.pinvoke.net" target="_blank">PInvoke.net</a> for having an amazing resource for PInvoke and Win32.</li>
+</ul>
 
 
