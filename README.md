@@ -6,9 +6,11 @@ Tested with Windows 7. Requires PowerShell v2 for the PowerShell Function.
 PowerShell Function also avalible on Microsoft TechNet Script Center (https://gallery.technet.microsoft.com/scriptcenter/Set-ScreenResolutionEx-54c5de59).
 
 <h2>Directory</h2>
-C# Script - The C# standalone C# script
-PowerShell Function - The PowerShell Function
-FindDispNum Tool - A simple tool written in C# that will show all the display information for the computer including the DeviceID needed to run the script and function. 
+<ul>
+<li>C# Script - The C# standalone C# script</li>
+<li>PowerShell Function - The PowerShell Function</li>
+<li>FindDispNum Tool - A simple tool written in C# that will show all the display information for the computer including the DeviceID needed to run the script and function. </li>
+</ul>
 
 <h3>FindDispNum Tool Instructions</h3>
 <ol>
